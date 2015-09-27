@@ -10,6 +10,8 @@ image:
   feature:
 date: 2015-07-29T20:18:11-07:00
 ---
+date: 2015-07-29
+
 
 I just recently returned home from the 20th International *C. elegans* Meeting at
 UCLA. I have to say that I absolutely love attending this meeting, not only for the 
