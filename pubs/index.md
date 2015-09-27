@@ -22,19 +22,19 @@ sequenced multi- mutation strains and using the sequence kernel association test
 Striated and non-filamentous forms of rootletin maintain ciliary function. 
 *Current Biology* 23(20):2016-22.
  
-2. Li, C.*, <b>Timbers, T.A.*</b>, Rose, J.K., Bozorgmehr, T, McEwan, A., and Rankin, 
+2. Li, C.<sup>1</sup>, <b>Timbers, T.A.<sup>1</sup></b>, Rose, J.K., Bozorgmehr, T, McEwan, A., and Rankin, 
 C.H. (2013). The FMRFamide-related neuropeptide FLP-20 is required in the mechanosensory 
 neurons during memory for massed training in <i>C. elegans. Learning & Memory </i>
-20(2):103-108. <b>*authors contributed equally</b>
+20(2):103-108. <b><sup>1</sup> authors contributed equally</b>
 
 3. Lau, H.L., <b>Timbers, T.A.</b>, Mahoumad, R., and Rankin, C.H. (2013). Genetic 
 dissection of memory for associative and non-associative learning in <i>C. elegans. Genes, 
 Brain and Behavior</i> 12(2):210-23.
 
-4. <b>Timbers, T.A.*</b>, Giles, A.C.*, Ardiel, E. L., Kerr, R. and Rankin, C. H. 
+4. <b>Timbers, T.A.<sup>1</sup></b>, Giles, A.C.<sup>1</sup>, Ardiel, E. L., Kerr, R. and Rankin, C. H. 
 (2013). Intensity discrimination deficits cause habituation changes in middle-aged 
 <i>Caenorhabditis elegans. Neurobiology of Aging</i> 34(2): 621-631. 
-<b>*authors contributed equally </b>
+<b><sup>1</sup> authors contributed equally </b>
 
 5. <b>Timbers, T.A.</b> and Rankin, C.H. (2011). Tap withdrawal circuit interneurons 
 require CREB for long-term habituation in <i>Caenorhabditis elegans. Behavioral 
