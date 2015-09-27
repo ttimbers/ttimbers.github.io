@@ -8,7 +8,7 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2015-09-26T20:18:11-07:00
+date: 2015-07-29T20:18:11-07:00
 ---
 
 I just recently returned home from the 20th International *C. elegans* Meeting at
@@ -60,7 +60,7 @@ and a dance (with a DJ and lasers and fog!). All of these events are not only tr
 fun, but really help to build and keep the community together.
 
 
-<p>There is a significant effect of attending a worm meeting. On the new graduate student,
+There is a significant effect of attending a worm meeting. On the new graduate student,
 there's a realization that there's another level as to how fun science can be, and that 
 there are people who are really, truly interested in what they are doing. For the 
 returning grad student, post-doc or PI, there's a sense of coming home and reconnecting 
