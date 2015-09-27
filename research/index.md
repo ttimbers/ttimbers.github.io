@@ -9,8 +9,8 @@ image:
   credit: T. Timbers
   creditlink: http://ttimbers.github.io
 ---
-<h2>Current Research Interests<br />
-<p>1. Integrating large datasets to uncover novel genes relevant to human health</h2>
+## Current Research Interests
+1. Integrating large datasets to uncover novel genes relevant to human health</h2>
 
 <p>We are living in an exciting time where there exists many high-throughput methods to 
 collect massive amounts of high-dimensional biological data (e.g., genome, transcriptome, 
@@ -31,7 +31,7 @@ with unsupervised learning approaches. Although my work has primarily utilized
 epidemiological and genomics research groups on similar datasets in other species, as the 
 same statistical methodologies would apply. 
 
-<h2>2. Ciliated sensory neuron development and function</h2>
+2. Ciliated sensory neuron development and function</h2>
 
 An intriguing finding from my Ph.D. research was that age-dependent changes in sensory 
 signalling altered learning (Timbers et al., 2013). Thus, I subsequently sought to develop 
@@ -53,7 +53,7 @@ have been performing high-throughput, large-scale genetic screens and statistica
 analysis in <i>C. elegans</i> to uncover new genes critical for ciliated sensory neuron 
 development and function.
 
-<h2>Graduate work: Molecular mechanisms of learning and memory</h2>
+##Graduate work: Molecular mechanisms of learning and memory</h2>
 <p>My graduate research with Dr. Catharine Rankin at the University of British Columbia 
 (Vancouver, BC) uncovered novel molecular mechanisms governing learning and memory 
 through genetic and behavioural studies of a form of non-associative learning, 
