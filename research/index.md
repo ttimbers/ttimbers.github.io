@@ -57,7 +57,10 @@ have been performing high-throughput, large-scale genetic screens and statistica
 analysis in *C. elegans* to uncover new genes critical for ciliated sensory neuron 
 development and function.
 
-##Graduate work: Molecular mechanisms of learning and memory
+##Graduate work 
+
+
+###Molecular mechanisms of learning and memory
 
 My graduate research with Dr. Catharine Rankin at the University of British Columbia 
 (Vancouver, BC) uncovered novel molecular mechanisms governing learning and memory 
