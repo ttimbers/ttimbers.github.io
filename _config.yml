@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            opinions are my own...
-locale:           en_US
-url:              http://ttimbers.github.io
+title: opinions are my own...
+locale: en_US
+url: http://ttimbers.github.io
 
 
 # Jekyll configuration
@@ -31,7 +31,7 @@ owner:
   bio: "Neurogenomicist trying to unravel how we see, smell and taste the world around us"
   email: tiffany.timbers@gmail.com
   disqus-shortname:
-  twitter: @TiffanyTimbers
+  twitter: TiffanyTimbers
   facebook: #username
   google:
     plus: #username
