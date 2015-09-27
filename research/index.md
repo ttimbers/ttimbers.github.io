@@ -10,28 +10,30 @@ image:
   creditlink: http://ttimbers.github.io
 ---
 ## Current Research Interests
-1. Integrating large datasets to uncover novel genes relevant to human health
+### Integrating large datasets to uncover novel genes relevant to human health
 
-<p>We are living in an exciting time where there exists many high-throughput methods to 
+We are living in an exciting time where there exists many high-throughput methods to 
 collect massive amounts of high-dimensional biological data (e.g., genome, transcriptome, 
 metabolome, phenome, et cetera) from which we can use established statistical methods to 
 predict new molecules relevant to human disease. The current pressing problem though, lies 
 in how we can take the next step with these large datasets and integrate them to uncover 
 new associations and interactions previously masked in these datasets by the “simplistic”
 approach of studying each individually.
-<p>To try to understand how to integrate data from different realms of biology, I have 
+
+
+To try to understand how to integrate data from different realms of biology, I have 
 been using a model, the nematode <i>Caenorhabditis elegans</i>. Very recently new 
 resources and tools have been developed for this model to make it the perfect test-case 
 for data integration, these include a deep-sequenced multi-mutant library 
 (Thompson et al., 2013) and an automated computer vision phenotyping system that can assay 
-> 20 phenotypes of ~ 100 worms simultaneously (Swierczek et al, 2011). I want to know how 
+greater than 20 phenotypes of ~ 100 worms simultaneously (Swierczek et al, 2011). I want to know how 
 we can best integrate these datasets, comparing multivariate regression-type approaches 
 with unsupervised learning approaches. Although my work has primarily utilized 
-<i>C. elegans</i>, I am excited by the prospect of working in collaboration with clinical, 
+*C. elegans*, I am excited by the prospect of working in collaboration with clinical, 
 epidemiological and genomics research groups on similar datasets in other species, as the 
 same statistical methodologies would apply. 
 
-2. Ciliated sensory neuron development and function
+### Ciliated sensory neuron development and function
 
 An intriguing finding from my Ph.D. research was that age-dependent changes in sensory 
 signalling altered learning (Timbers et al., 2013). Thus, I subsequently sought to develop 
@@ -39,7 +41,7 @@ my understanding of sensory systems by carrying out my postdoctoral research at 
 Fraser University (Burnaby, BC) in the lab of Dr. Michel Leroux because he is a 
 world-leading expert in the underlying mechanisms of the development and function cilia.
 
-<p>Cilia are important organelles that emit from the cell membrane of almost all 
+Cilia are important organelles that emit from the cell membrane of almost all 
 eukaryotic cell types and are required for virtually all sensory processes, including 
 olfaction, mechanosensation, photosensation and thermosensation, as well as function in 
 modulating various core signaling pathways (Wnt, Hegdehog, PDGF) important for 
@@ -50,14 +52,15 @@ In these ciliopathies, collective disruption of many, if not all, cilia in the h
 results in a plethora of defects, including retinal degeneration, organ cyst formation, 
 obesity, brain malformations, and various other ailments (Baker & Beales, 2009). Here I 
 have been performing high-throughput, large-scale genetic screens and statistical genetic 
-analysis in <i>C. elegans</i> to uncover new genes critical for ciliated sensory neuron 
+analysis in *C. elegans* to uncover new genes critical for ciliated sensory neuron 
 development and function.
 
 ##Graduate work: Molecular mechanisms of learning and memory
-<p>My graduate research with Dr. Catharine Rankin at the University of British Columbia 
+
+My graduate research with Dr. Catharine Rankin at the University of British Columbia 
 (Vancouver, BC) uncovered novel molecular mechanisms governing learning and memory 
 through genetic and behavioural studies of a form of non-associative learning, 
-mechanosensory habituation, in <i>C. elegans</i>. This work, which led to four 
+mechanosensory habituation, in *C. elegans*. This work, which led to four 
 publications as well as an additional manuscript currently under review at PNAS, 
 (1) revealed that the transcription factor CREB is required for long-term habituation, and 
 localized its function to two identified interneurons (Timbers & Rankin, 2011; Li & 
