@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A bit about me
+title: Research
 tags: [about, Jekyll, theme, responsive]
 modified: 2015-09-T20:53:07.573882-04:00
 comments: true
@@ -9,11 +9,62 @@ image:
   credit: T. Timbers
   creditlink: http://ttimbers.github.io
 ---
-### Research
-I am a Neurogenomicist who is trying to unravel how we see, smell and taste the world around us. To accomplish this I use advanced statistical genetic methods to reveal associations between the genome and the behavioral phenome of a model organism, the nematode *Caenorhabditis elegans*.
-The goal is to reveal new genes important for sensing and responding to the environment. When I uncover new sensory genes, I then investigate their biological function in *C. elegans* and collaborate with human geneticists to assess their potential role in human sensory disorders.
-Currently, I am a Postdoc at Simon Fraser University working with [Dr. Michel Leroux](http://www.sfu.ca/~leroux/).
+<h2>Current Research Interests<br />
+<p>1. Integrating large datasets to uncover novel genes relevant to human health</h2>
 
+<p>We are living in an exciting time where there exists many high-throughput methods to 
+collect massive amounts of high-dimensional biological data (e.g., genome, transcriptome, 
+metabolome, phenome, et cetera) from which we can use established statistical methods to 
+predict new molecules relevant to human disease. The current pressing problem though, lies 
+in how we can take the next step with these large datasets and integrate them to uncover 
+new associations and interactions previously masked in these datasets by the “simplistic”
+approach of studying each individually.
+<p>To try to understand how to integrate data from different realms of biology, I have 
+been using a model, the nematode <i>Caenorhabditis elegans</i>. Very recently new 
+resources and tools have been developed for this model to make it the perfect test-case 
+for data integration, these include a deep-sequenced multi-mutant library 
+(Thompson et al., 2013) and an automated computer vision phenotyping system that can assay 
+> 20 phenotypes of ~ 100 worms simultaneously (Swierczek et al, 2011). I want to know how 
+we can best integrate these datasets, comparing multivariate regression-type approaches 
+with unsupervised learning approaches. Although my work has primarily utilized 
+<i>C. elegans</i>, I am excited by the prospect of working in collaboration with clinical, 
+epidemiological and genomics research groups on similar datasets in other species, as the 
+same statistical methodologies would apply. 
 
-### Open Science
-This collaborative research works best in an open science framework and I strive to ensure all data and source code from my research is freely available to everyone. In addition to open access research, I participate in open science education and training as a [Software Carpentry](http://software-carpentry.org/) Instructor and Contributor, [Mozilla Science Study Group organizer](http://sciprog.ca/), and Quest University visiting tutor teaching Computation in the Physical Sciences.
+<h2>2. Ciliated sensory neuron development and function</h2>
+
+An intriguing finding from my Ph.D. research was that age-dependent changes in sensory 
+signalling altered learning (Timbers et al., 2013). Thus, I subsequently sought to develop 
+my understanding of sensory systems by carrying out my postdoctoral research at Simon 
+Fraser University (Burnaby, BC) in the lab of Dr. Michel Leroux because he is a 
+world-leading expert in the underlying mechanisms of the development and function cilia.
+
+<p>Cilia are important organelles that emit from the cell membrane of almost all 
+eukaryotic cell types and are required for virtually all sensory processes, including 
+olfaction, mechanosensation, photosensation and thermosensation, as well as function in 
+modulating various core signaling pathways (Wnt, Hegdehog, PDGF) important for 
+development. Dysfunction of cilia is implicated in a number of human diseases, including 
+polycystic kidney disease, congenital heart disease, and an emerging group of genetic 
+disorders termed ciliopathies (e.g., Bardet-Biedl, Meckel-Gruber and Joubert Syndromes). 
+In these ciliopathies, collective disruption of many, if not all, cilia in the human body 
+results in a plethora of defects, including retinal degeneration, organ cyst formation, 
+obesity, brain malformations, and various other ailments (Baker & Beales, 2009). Here I 
+have been performing high-throughput, large-scale genetic screens and statistical genetic 
+analysis in <i>C. elegans</i> to uncover new genes critical for ciliated sensory neuron 
+development and function.
+
+<h2>Graduate work: Molecular mechanisms of learning and memory</h2>
+<p>My graduate research with Dr. Catharine Rankin at the University of British Columbia 
+(Vancouver, BC) uncovered novel molecular mechanisms governing learning and memory 
+through genetic and behavioural studies of a form of non-associative learning, 
+mechanosensory habituation, in <i>C. elegans</i>. This work, which led to four 
+publications as well as an additional manuscript currently under review at PNAS, 
+(1) revealed that the transcription factor CREB is required for long-term habituation, and 
+localized its function to two identified interneurons (Timbers & Rankin, 2011; Li & 
+Timbers et al., 2013), (2) genetically dissected intermediate- and long-term memory and 
+demonstrated that these memories are formed by differentially altering the synaptic machinery 
+(Li & Timbers et al., 2013), (3) paired an automated behavioural tracking system, the 
+Multi-worm tracker (Swierczek et al., 2011), with optogenetics to uncover that age-related 
+changes in sensory transduction begin in middle-age and lead to learning deficits (Timbers 
+et al., 2013), and (4) uncovered a novel role for O-GlcNAcylation post-translational 
+modification in learning (Timbers et al., under Review at PNAS).
