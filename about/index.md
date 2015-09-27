@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About the Theme
+title: A bit about me
 tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2015-09-T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: banner2.jpg
+  credit: T. Timbers
+  creditlink: http://ttimbers.github.io
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+<p>I am a Neurogenomicist who is trying to unravel how we see, smell and taste the world around us. To accomplish this I use advanced statistical genetic methods to reveal associations between the genome and the behavioral phenome of a model organism, C. elegans.
+The goal is to reveal new genes important for sensing and responding to the environment. When I uncover new sensory genes, I then investigate their biological function in C. elegans and collaborate with human geneticists to assess their potential role in human sensory disorders.
+Currently, I am a Postdoc at Simon Fraser University working with <ahref="http://www.sfu.ca/~leroux/">Dr. Michel Leroux</a>.
+
+<p>This collaborative research works best in an open science framework and I strive to ensure all data and source code from my research is freely available to everyone. In addition to open access research, I participate in open science education and training as a Software Carpentry Instructor and Contributor.
 
 ## Minimal Mistakes is all about:
 
