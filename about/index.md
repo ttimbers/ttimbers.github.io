@@ -16,4 +16,4 @@ Currently, I am a Postdoc at Simon Fraser University working with [Dr. Michel Le
 
 
 ### Open Science
-This collaborative research works best in an open science framework and I strive to ensure all data and source code from my research is freely available to everyone. In addition to open access research, I participate in open science education and training as a [Software Carpentry](http://software-carpentry.org/) Instructor and Contributor.
+This collaborative research works best in an open science framework and I strive to ensure all data and source code from my research is freely available to everyone. In addition to open access research, I participate in open science education and training as a [Software Carpentry](http://software-carpentry.org/) Instructor and Contributor, [Mozilla Science Study Group organizer](http://sciprog.ca/), and Quest University visiting tutor teaching Computation in the Physical Sciences.
