@@ -5,7 +5,7 @@ excerpt: "I just recently returned home from the 20th International *C. elegans*
 modified: 
 categories: 
 excerpt:
-tags: []
+tags: [science]
 image:
   feature:
 date: 2015-07-29T20:18:11-07:00
