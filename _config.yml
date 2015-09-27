@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            opinions are my own...
 locale:           en_US
-url:
+url:              http://ttimbers.github.io
 
 
 # Jekyll configuration
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Tiffany Timbers
+  avatar: https://avatars1.githubusercontent.com/u/6865016
+  bio: "Neurogenomicist trying to unravel how we see, smell and taste the world around us"
+  email: tiffany.timbers@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: @TiffanyTimbers
   facebook: #username
   google:
     plus: #username
@@ -40,9 +40,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: ttimbers
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: tiffany-timbers
   xing: #username
   instagram: #username
   lastfm: #username
