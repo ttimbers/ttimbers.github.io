@@ -66,7 +66,7 @@ there are people who are really, truly interested in what they are doing. For th
 returning grad student, post-doc or PI, there's a sense of coming home and reconnecting 
 with amazing people you do not get to see often enough. And in these tight times of 
 science budgets, these meetings let you really see the amazing research that stems from 
-all of us working together using *C. elegans<* as a model and convinces you to stick 
+all of us working together using *C. elegans* as a model and convinces you to stick 
 with this elegant little worm.  
 
 
