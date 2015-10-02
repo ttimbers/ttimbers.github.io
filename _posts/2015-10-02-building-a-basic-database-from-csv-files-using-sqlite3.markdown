@@ -15,7 +15,7 @@ date: 2015-10-02T13:40:55-07:00
 We finally finished collecting data from our high-dimensional behavioural analysis of 
 40 *C. elegans* wild-isolates from across the globe and this week I was ready to dig into
 the data - I am super excited to observe the diversity of behavioural profiles of 40 
-genetically distinct strains for whom we have whole genome sequences for!
+genetically distinct strains for whom we have whole genome sequences!
 
 This is a much bigger dataset than I usually work with, and for this analysis I am not
 only interested in one particular behavioural aspect, I want to look at **everything**. 
