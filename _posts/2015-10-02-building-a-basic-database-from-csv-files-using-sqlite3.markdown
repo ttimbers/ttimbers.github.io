@@ -119,7 +119,8 @@ mode to csv:
 sqlite> .mode csv
 ~~~
 
-And then specify the delimiter (my file had \t spacing instead of `,`'s):
+And then specify the delimiter (my file had `\t` spacing instead of `,`'s):
+
 ~~~
 .separator '\t'
 ~~~
