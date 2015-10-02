@@ -122,7 +122,7 @@ sqlite> .mode csv
 And then specify the delimiter (my file had `\t` spacing instead of `,`'s):
 
 ~~~
-.separator '\t'
+sqlite> .separator '\t'
 ~~~
 
 *Finally* we can add our data to the database using the import command and passing it the 
