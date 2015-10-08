@@ -20,6 +20,7 @@ How to do Reproducible Computational Analysis by Titus Brown: <a href="https://w
 ## Data analysis in Python: 
 pandas data analysis package: <a href="http://pandas.pydata.org">pandas.pydata.org</a> <br />
 matplotlib 2D plotting library: <a href="http://matplotlib.org">matplotlib.org</a> <br />
+<a href="https://www.youtube.com/watch?v=5JnMutdy6Fw">Pandas From The Ground Up | PyCon 2015 | Brandon Rhodes</a></br>
 <a href="https://www.youtube.com/watch?v=0CFFTJUZ2dc&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=12">Analyzing and Manipulating Data with Pandas | SciPy 2015 Tutorial | Jonathan Rocher</a> <br />
 <a href="https://www.youtube.com/watch?v=MKucn8NtVeI&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=36">Anatomy of matplotlib | SciPy 2015 Tutorial | Benjamin Root and Joe Kington</a> <br />
 
