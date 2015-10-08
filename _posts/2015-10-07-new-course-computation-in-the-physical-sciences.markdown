@@ -40,7 +40,7 @@ made all the code used in the book available as an ipython notebook to help with
 the material. I am collaborating with them to annotate this code and make relevant, 
 class-sized homework assignments to facilitate teaching with this book in the future.
 
-I am really excited and looking forward to Day 1 on October 27, and welcome and thoughts,
+I am really excited and looking forward to day 1 on October 27, and welcome and thoughts,
 suggestions and/words of wisdom as I take on this new adventure.
 
 
