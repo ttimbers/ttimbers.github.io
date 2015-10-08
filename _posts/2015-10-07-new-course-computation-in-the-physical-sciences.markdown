@@ -14,7 +14,7 @@ In less than a month from now, I will be teaching an 3rd year undergraduate cour
 [Quest University](http://www.questu.ca/) called "Computation in the Physical Sciences". 
 Although I am a biologist by training, and a bioinformatician by practice, I 
 am view myself as very qualified to teach this course because when students are learning
-about best practices when computing in the sciences the important principles 
+about best practices for computing in the sciences, the important principles 
 (project organization and reproducibility, as well as code read- and reusability) are the 
 same, regardless of scientific domain. 
 
