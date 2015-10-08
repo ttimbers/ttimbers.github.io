@@ -22,7 +22,7 @@ The course I am teaching this fall will be taken by 13 students and it will be t
 over 3.5 weeks (Quest works on a block system). Each day, during that period there will be
 3 hours of in-class time and then students are expected to work 5 additional hours/day on
 the course. I have decided to approach teaching this course primarily using the 
-[Software Carpentry](http://software-carpentry.org/) live coding approach. Additionally
+[Software Carpentry](http://software-carpentry.org/) live coding strategy. Additionally
 we will do in-class group code review sessions (inspired by 
 [Philip Guo](http://cacm.acm.org/blogs/blog-cacm/175944-small-group-code-reviews-for-education/fulltext)) 
 as well as hackathon-type sessions. I am in the midst of finalizing the 
