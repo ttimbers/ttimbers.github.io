@@ -17,8 +17,7 @@ got around to writing this short post on what to do next (*i.e.,* how do your da
 the database and into R). 
 
 This task requires the R packages DBI and RSQLite (use `install.packages("PackageName")` 
-to install), thus after opening R you must load 
-these libraries:
+to install). After opening R you must load these libraries:
 
 ~~~
 library(DBI)
