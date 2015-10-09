@@ -25,8 +25,10 @@ library(DBI)
 library(RSQLite)
 ~~~
 
-Next, you must connect to the SQLite database file. The extension can be either `.db` or
-`.sqlite`, whichever you named the database file when you created it via SQLite.
+First, you must connect to the SQLite database file. The extension can be either `.db` or
+`.sqlite`, whichever you named the database file when you created it via SQLite. *Note - 
+for this to work you must either set R's working directory to the directory where your 
+database lives or provide the path to the database.*
 
 ~~~
 con = dbConnect(SQLite(), dbname="mydatabase.db")
@@ -47,9 +49,9 @@ assign that to an R object, such as a dataframe.
 my_data <- dbFetch(myQuery)
 ~~~
 
-After assigning the data to an object, it is advised to clear the query. With very large 
-datasets, this can be import for avoiding the exhaustion of resources (memory, 
-file descriptors, etc.).
+Now that the data is assigned the data to an object in R, it is advised to clear the 
+query. With very large datasets, this can be import for avoiding the exhaustion of 
+resources (memory, file descriptors, etc.).
 
 ~~~
 dbClearResult(myQuery)
