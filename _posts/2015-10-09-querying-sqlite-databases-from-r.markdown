@@ -42,10 +42,11 @@ myQuery <- dbSendQuery(con, "SELECT strain FROM behaviour")
 ~~~
 
 After building your query, you can use that query to fetch the data from the database and
-assign that to an R object.
+assign that to an R object. The `n = -1` argument in dbFetch() must be used if you want to
+retrieve all records in the database, otherwise the default with stop at 500.
 
 ~~~
-my_data <- dbFetch(myQuery)
+my_data <- dbFetch(myQuery, n=-1)
 ~~~
 
 Now that the data is assigned the data to an object in R, it is advisable to clear the 
