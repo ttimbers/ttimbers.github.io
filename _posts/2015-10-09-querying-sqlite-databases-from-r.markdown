@@ -46,7 +46,7 @@ assign that to an R object. The `n = -1` argument in `dbFetch()` must be used if
 to retrieve all records in the database, otherwise the default is to stop at 500 records.
 
 ~~~
-my_data <- dbFetch(myQuery, n=-1)
+my_data <- dbFetch(myQuery, n = -1)
 ~~~
 
 Now that the data is assigned the data to an object in R, it is advisable to clear the 
