@@ -16,7 +16,7 @@ Currently, I am a Banting Postdoc at Simon Fraser University working with [Dr. M
 
 
 ### Open Science
-This collaborative research works best in an open science framework and I strive to ensure all data and source code from my research is freely available to everyone. In addition to open access research, I participate in open science education and training as a [Software Carpentry](http://software-carpentry.org/) Instructor and Contributor, [Mozilla Science Study Group organizer](http://sciprog.ca/), and Quest University visiting tutor teaching Computation in the Physical Sciences.
+This collaborative research works best in an open science framework and I strive to ensure all data and source code from my research is freely available to everyone. In addition to open access research, I participate in open science education and training as a [Software Carpentry](http://software-carpentry.org/) Instructor and Contributor, [Mozilla Science Study Group organizer](http://sciprog.ca/), and Quest University visiting tutor teaching [Computation in the Physical Sciences](http://phy3009.github.io/PHY3009-2015/).
 
 
 My up-to-date *curriculum vitae* can be found [here](Timbers_CV.pdf).
