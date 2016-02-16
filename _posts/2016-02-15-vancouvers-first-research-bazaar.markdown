@@ -48,16 +48,16 @@ to hopefully having an even bigger and better event in 2017!
 
 ### My Online Presence/Social Media To Do List
 *From Rebecca's talk*
-* one online landing page to summarize my work (this will be [my blog](http://tiffanytimbers.com/))
-* make a better description of my blog, currently it says, "A minimal Jekyll theme for your blog by designer Michael Rose", which is not very helpful for me...
-* get an [orchidID](http://orcid.org/) 
-* try the [30 day Impact Challenge](http://blog.impactstory.org/research-impact-challenge-ebook/)
-* sign-up for Google Scholar alerts
-* check-out my Altmetric engagement via [Impact Story](https://impactstory.org/)
+1. one online landing page to summarize my work (this will be [my blog](http://tiffanytimbers.com/))
+2. make a better description of my blog, currently it says, "A minimal Jekyll theme for your blog by designer Michael Rose", which is not very helpful for me...
+3. get an [orchidID](http://orcid.org/) 
+4. try the [30 day Impact Challenge](http://blog.impactstory.org/research-impact-challenge-ebook/)
+5. sign-up for Google Scholar alerts
+6. check-out my Altmetric engagement via [Impact Story](https://impactstory.org/)
 
 *Amy's talk*
-* start using lists on twitter
-* use analytics to assess whether your social media efforts are effective
-* use [Hootesuite](https://hootsuite.com/) to schedule tweets
-* use a better twitter client to follow hashtags (*e.g.,* [Tweetdeck](https://tweetdeck.twitter.com/))
-* engage with more people on twitter (be consistent on topics, have converstations)
+1. start using lists on twitter
+2. use analytics to assess whether your social media efforts are effective
+3. use [Hootesuite](https://hootsuite.com/) to schedule tweets
+4. use a better twitter client to follow hashtags (*e.g.,* [Tweetdeck](https://tweetdeck.twitter.com/))
+5. engage with more people on twitter (be consistent on topics, have converstations)
