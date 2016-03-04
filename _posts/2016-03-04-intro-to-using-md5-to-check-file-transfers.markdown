@@ -39,7 +39,9 @@ hashes from two different files is extremely low. So we can use this feature for
 the files and their integrity control while copying.
 
 In this quick tutorial you will learn:
+
 * How to copy files from your local machine to webdav via the command line
+
 * How to get the MD5 hash from the original and copied files so that you can check if they were copied correctly
 
 ## Copying files to webdav via the commmand line
