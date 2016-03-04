@@ -1,5 +1,13 @@
 ---
+layout: post
 title: Intro to using MD5 to check file transfers
+excerpt: "As with anyone who copies large files, our lab has been having some issues with files being corrupt after copying."
+modified: 
+categories: 
+excerpt:
+tags: [science]
+image:
+  feature:
 date: 2016-03-04T13:24:49-08:00
 ---
 
