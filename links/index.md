@@ -30,7 +30,7 @@ matplotlib 2D plotting library: <a href="http://matplotlib.org">matplotlib.org</
 <a href="https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf">RStdudio R Markdown Cheat Sheet</a> <br />
 
 
-##*C. elegans* resources: 
+## *C. elegans* resources: 
 Wormbase: <a href="http://www.wormbase.org/">wormbase.org</a> <br />
 Million Mutation Project Resource: <a href="http://genome.sfu.ca/mmp/search.html">genome.sfu.ca/mmp/search.html</a> <br />
 Wormatlas: <a href="http://wormatlas.org/">wormatlas.org</a> <br />
