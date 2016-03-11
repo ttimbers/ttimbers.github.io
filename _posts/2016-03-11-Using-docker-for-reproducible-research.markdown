@@ -1,4 +1,16 @@
-# Using Docker for Reproducible Research
+---
+layout: post
+title: Using Docker for Reproducible Research
+excerpt: "In my reproducible research toolbox, there are several tools that I routinely use. These include, R & Python, the Bash Shell,
+Make and Git."
+modified: 
+categories: 
+excerpt:
+tags: [science]
+image:
+  feature:
+date: 2016-03-11T13:24:49-08:00
+---
 
 In my reproducible research toolbox, there are several tools that I routinely use. These include, R & Python, the Bash Shell,
 Make and Git. Although I have had Docker sitting in my toolbox since Titus Brown introduced me to it via [this tutorial](http://angus.readthedocs.org/en/2015/week3/CTB_docker.html)
