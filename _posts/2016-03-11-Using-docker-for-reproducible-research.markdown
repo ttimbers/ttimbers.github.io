@@ -221,3 +221,4 @@ $ docker push ttimbers/mmp-dyf-skat
 Now I have a container saved safely on https://hub.docker.com, and as I mentioned previously, I or anyone else, can run on any machine if Docker is installed. I think this is a really great tool for reproducibility if you need to run your analysis on multiple machines. 
 
 * update: there is one dependency that I haven't gotten the install to work for yet and that is `gzcat`. Once I figure that out I will add it to the post. If you know how to install `gzcat` on ubuntu, please let me know.*
+* additional update: `gunzip -c` works the same as `gzcat`, but has the added bonus of working on both ubuntu & OSX
