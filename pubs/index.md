@@ -46,7 +46,7 @@ Neuroscience</i> 125(4): 560-566.
 
 ### Published Book Chapters 
 
-1. 1. **Timbers, T.A.**, Frame, A., Rankin, C.H. (2016 - In Press). Learning and memory in invertebrates: 
+1. **Timbers, T.A.**, Frame, A., Rankin, C.H. (2016 - In Press). Learning and memory in invertebrates: 
 <i>C. elegans</i>. <i>Neuroscience and Biobehavioral Psychology</i>, Elsevier.
 
 1. <b>Timbers, T.A.</b> and Rankin, C.H. (2008). Learning and memory in invertebrates: 
