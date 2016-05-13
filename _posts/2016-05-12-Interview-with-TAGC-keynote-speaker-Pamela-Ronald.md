@@ -19,7 +19,8 @@ America's ([GSA](http://www.genetics-gsa.org/)) blog.
 ===
 
 MAY 12, 2016
-#Behind the Podium: Pamela Ronald
+
+## Behind the Podium: Pamela Ronald
 
 In preparation for The Allied Genetics Conference (TAGC), set to take place in Orlando this July, Genes to Genomes is getting the inside scoop from many of the outstanding keynote speakers in our “Behind the Podium” series. Here, GSA member Tiffany Timbers interviews Prof. Pamela Ronald, a professor in the Genome Center and the Department of Plant Pathology, and founding faculty director of the Institute for Food and Agricultural Literacy (IFAL), from the University of California, Davis. Pamela also serves as the Director of Grass Genetics at the Joint BioEnergy Institute in Emeryville, California.
 
