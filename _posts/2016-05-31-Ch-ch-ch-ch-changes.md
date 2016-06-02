@@ -16,7 +16,7 @@ University and started my new job as a Teaching Fellow in at the University of B
 Columbia's new Master's of Data Science (MDS) program. This is a exciting and reflectful
 (if that's a word) time for me. I am ecstatic about my new role in the MDS program,
 specifically being able to be a core team member involved in developing this  brand new and cutting edge
-program from the ground up. For more info on the MDS program, checkout the fancy website: http://mds.science.ubc.ca/. 
+program from the ground up. For more info on the MDS program, checkout the fancy website: [http://mds.science.ubc.ca/](http://mds.science.ubc.ca/). 
 
 I am still in a bit of disbelief that I have moved on from my postdoc.
 I spent 4 years working with an absolutely awesome supervisor, Michel, and a group of
