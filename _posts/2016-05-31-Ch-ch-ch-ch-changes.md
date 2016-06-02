@@ -11,7 +11,7 @@ image:
 date: 2016-05-31T13:24:49-08:00
 ---
 
-I have officially finished my postdoc in the Michel Leroux's lab at Simon Fraser 
+I have officially finished my postdoc in the [Michel Leroux's lab](http://www.sfu.ca/~leroux/) at Simon Fraser 
 University and started my new job as a Teaching Fellow in at the University of British 
 Columbia's new Master's of Data Science (MDS) program. This is a exciting and reflectful
 (if that's a word) time for me. I am ecstatic about my new role in the MDS program,
