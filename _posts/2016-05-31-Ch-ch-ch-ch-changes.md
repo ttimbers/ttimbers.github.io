@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ch-ch-ch-ch-changes!
-excerpt: "This past month I interviewed TAGC keynote speaker & most awesome plant geneticist, Pamela Ronald. Below is the interview as it was published in [Genes to Genomes](http://genestogenomes.org/), the Genetics Society of America's ([GSA](http://www.genetics-gsa.org/)) blog."
+excerpt: "I have officially finished my postdoc in the Michel Leroux's lab at Simon Fraser University and started my new job as a Teaching Fellow in at the University of British Columbia's new Master's of Data Science (MDS) program."
 modified:
 categories:
 excerpt:
