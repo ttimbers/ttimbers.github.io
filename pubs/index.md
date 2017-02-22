@@ -17,7 +17,7 @@ image:
 ### Original Research Publications 
 
 1.  Yadav, C., Guedes, R.N.C., Matheson, S., **Timbers, T.A.**, Yack, J.E. (2017).
-Invitation by vibration: recruitment to feeding sheltersin social caterpillars. *Behavioral Ecology and Sociobiology* doi: [10.1007/s00265-017-2280-x](http://link.springer.com/article/10.1007/s00265-017-2280-x)
+Invitation by vibration: recruitment to feeding shelters in social caterpillars. *Behavioral Ecology and Sociobiology* doi: [10.1007/s00265-017-2280-x](http://link.springer.com/article/10.1007/s00265-017-2280-x)
 
 1. Jensen, V.L., Carter, S., Sanders, A.A.W.M., Li, C., Kennedy, J., **Timbers, T.A.**, Cai, J., Scheidel, N., Kennedy, B.N., Morin, R.D., Leroux, M.R., Blacque, O.E. (2017).
 Whole-Organism Developmental Expression Profiling Identifies RAB-28 as a Novel Ciliary GTPase Associated with the BBSome and Intraflagellar Transport. *PLoS Genetics* doi: http://dx.doi.org/10.1371/journal.pgen.1006469
