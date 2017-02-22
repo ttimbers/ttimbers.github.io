@@ -10,13 +10,21 @@ image:
   creditlink: http://ttimbers.github.io
 ---
 ### Preprints
-1. **Timbers, T.A.**, Garland, S.J., Mohan, S., Flibotte, S., Edgley, M., Muncaster, Q., 
-Moerman, D.G., Leroux, M.R. (2015). Accelerating gene discovery by phenotyping whole-genome 
-sequenced multi- mutation strains and using the sequence kernel association test (SKAT).
+1. **Timbers, T.A.**, Garland, S.J., Mohan, S., Flibotte, S., Edgley, M., Muncaster, Q., Au, V., Li-Leger, E., Rosell, F.I., Cai, J., Rademakers, S., Jansen, G.,  Moerman, D.G., Leroux, M.R. (2015). Accelerating gene discovery by phenotyping whole-genome sequenced multi- mutation strains and using the sequence kernel association test (SKAT).
 *bioRxiv* doi: http://dx.doi.org/10.1101/027540
 
 
 ### Original Research Publications 
+
+1.  Yadav, C., Guedes, R.N.C., Matheson, S., **Timbers, T.A.**, Yack, J.E. (2017).
+Invitation by vibration: recruitment to feeding sheltersin social caterpillars. *Behavioral Ecology and Sociobiology* doi: [10.1007/s00265-017-2280-x](http://link.springer.com/article/10.1007/s00265-017-2280-x)
+
+1. Jensen, V.L., Carter, S., Sanders, A.A.W.M., Li, C., Kennedy, J., **Timbers, T.A.**, Cai, J., Scheidel, N., Kennedy, B.N., Morin, R.D., Leroux, M.R., Blacque, O.E. (2017).
+Whole-Organism Developmental Expression Profiling Identifies RAB-28 as a Novel Ciliary GTPase Associated with the BBSome and Intraflagellar Transport. *PLoS Genetics* doi: http://dx.doi.org/10.1371/journal.pgen.1006469
+
+1. **Timbers, T.A.**, Garland, S.J., Mohan, S., Flibotte, S., Edgley, M., Muncaster, Q., Au, V., Li-Leger, E., Rosell, F.I., Cai, J., Rademakers, S., Jansen, G.,  Moerman, D.G., Leroux, M.R. (2016). 
+Accelerating Gene Discovery by Phenotyping Whole-Genome Sequenced Multi-mutation Strains and Using the Sequence Kernel Association Test (SKAT).
+*PLoS Genetics* doi: http://dx.doi.org/10.1371/journal.pgen.1006235
 
 1. Mohan, S., **Timbers, T.A.**, Kennedy, J., Blacque, O., and Leroux, M.R. (2013). 
 Striated and non-filamentous forms of rootletin maintain ciliary function. 
