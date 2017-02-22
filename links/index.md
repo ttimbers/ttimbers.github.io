@@ -24,9 +24,9 @@ image:
 - [pandas data analysis package](http://pandas.pydata.org)
 - [matplotlib 2D plotting library](http://matplotlib.org)
 - [DataCamp Matplotlib Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
-- [Pandas From The Ground Up](https://www.youtube.com/watch?v=5JnMutdy6Fw) | PyCon 2015 | Brandon Rhodes
-- [Analyzing and Manipulating Data with Pandas](https://www.youtube.com/watch?v=0CFFTJUZ2dc&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=12) | SciPy 2015 Tutorial | Jonathan Rocher
-- [Anatomy of matplotlib](https://www.youtube.com/watch?v=MKucn8NtVeI&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=36) SciPy 2015 Tutorial | Benjamin Root and Joe Kington
+- [Pandas From The Ground Up](https://www.youtube.com/watch?v=5JnMutdy6Fw) by Brandon Rhodes (PyCon 2015)
+- [Analyzing and Manipulating Data with Pandas](https://www.youtube.com/watch?v=0CFFTJUZ2dc&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=12) by Jonathan Rocher (SciPy 2015 Tutorial)
+- [Anatomy of matplotlib](https://www.youtube.com/watch?v=MKucn8NtVeI&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=36) by Benjamin Root and Joe Kington (SciPy 2015 Tutorial)
 
 ## Data analysis in R: 
 - [RStudio Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
