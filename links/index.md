@@ -10,29 +10,34 @@ image:
   creditlink: http://ttimbers.github.io
 ---
 ## General Teaching: 
-Socrative: <a href="http://socrative.com/">socrative.com</a> <br />
+- [Socrative](http://socrative.com/) classroom app
+- [John Kimble](https://github.com/kohler/johnkimble) live feedback system for classroom use
 
 ## Learning to Code: 
-Software Carpentry: <a href="http://software-carpentry.org/">software-carpentry.org</a> <br />
-SFU Scientific Programming Study Group: <a href="https://ttimbers.github.io/studyGroup/">ttimbers.github.io/studyGroup</a> <br />
-How to do Reproducible Computational Analysis by Titus Brown: <a href="https://www.youtube.com/watch?v=SRItP6PSu4U&feature=youtu.be">youtube.com/watch?v=SRItP6PSu4U&feature=youtu.be</a><br />
+- [Installation Guide for Data Science Software Stack](https://ubc-mds.github.io/resources_pages/installation_instructions/) (courtesy of UBC's Master of Data Science program)
+- [Software Carpentry](http://software-carpentry.org/)
+- [UBC R Study Group](https://minisciencegirl.github.io/studyGroup/)
+- [SFU Scientific Programming Study Group](https://ttimbers.github.io/studyGroup/)
+- [How to do Reproducible Computational Analysis by Titus Brown](https://www.youtube.com/watch?v=SRItP6PSu4U&feature=youtu.be">youtube.com/watch?v=SRItP6PSu4U&feature=youtu.be)
 
 ## Data analysis in Python: 
-pandas data analysis package: <a href="http://pandas.pydata.org">pandas.pydata.org</a> <br />
-matplotlib 2D plotting library: <a href="http://matplotlib.org">matplotlib.org</a> <br />
-<a href="https://www.youtube.com/watch?v=5JnMutdy6Fw">Pandas From The Ground Up | PyCon 2015 | Brandon Rhodes</a><br />
-<a href="https://www.youtube.com/watch?v=0CFFTJUZ2dc&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=12">Analyzing and Manipulating Data with Pandas | SciPy 2015 Tutorial | Jonathan Rocher</a> <br />
-<a href="https://www.youtube.com/watch?v=MKucn8NtVeI&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=36">Anatomy of matplotlib | SciPy 2015 Tutorial | Benjamin Root and Joe Kington</a> <br />
+- [pandas data analysis package](http://pandas.pydata.org)
+- [matplotlib 2D plotting library](http://matplotlib.org)
+- [DataCamp Matplotlib Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
+- [Pandas From The Ground Up](https://www.youtube.com/watch?v=5JnMutdy6Fw) | PyCon 2015 | Brandon Rhodes
+- [Analyzing and Manipulating Data with Pandas](https://www.youtube.com/watch?v=0CFFTJUZ2dc&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=12) | SciPy 2015 Tutorial | Jonathan Rocher
+- [Anatomy of matplotlib](https://www.youtube.com/watch?v=MKucn8NtVeI&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=36) SciPy 2015 Tutorial | Benjamin Root and Joe Kington
 
 ## Data analysis in R: 
-<a href="https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf">RStudio Data Wrangling Cheat Sheet</a> <br />
-<a href="https://www.rstudio.com/wp-content/uploads/2015/05/ggplot2-cheatsheet.pdf">RStudio Data Visualization Cheat Sheet</a> <br />
-<a href="https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf">RStdudio R Markdown Cheat Sheet</a> <br />
+- [RStudio Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+- [RStudio Data Visualization Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/05/ggplot2-cheatsheet.pdf)
+- [RStdudio R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 
 
 ## *C. elegans* resources: 
-Wormbase: <a href="http://www.wormbase.org/">wormbase.org</a> <br />
-Million Mutation Project Resource: <a href="http://genome.sfu.ca/mmp/search.html">genome.sfu.ca/mmp/search.html</a> <br />
-Wormatlas: <a href="http://wormatlas.org/">wormatlas.org</a> <br />
-Open: <a href="http://www.openworm.org/">openworm.org</a><br />
+- [Wormbase](http://www.wormbase.org/)
+- [Wormatlas](http://wormatlas.org/">wormatlas.org)
+- [Open Worm](http://www.openworm.org/)
+- [Million Mutation Project Resource](genome.sfu.ca/mmp/search.html)
+- [CRISPR guide RNA selection tool](http://genome.sfu.ca/crispr/search.html)
 ￼ 
