@@ -20,4 +20,4 @@ I have a large body of teaching experience spanning from:
   - instructing a 3rd year [Computation in the Physical Sciences](http://phy3009.github.io/PHY3009-2015/) course at Quest University 
   - my current role as a Teaching Fellow for the UBC Master of Data Science program.
 
-My teaching philosophy can be accessed [here](Timbers_teaching_philosophy.pdf).
+My teaching philosophy can be accessed [here](teaching_philosophy.md).
