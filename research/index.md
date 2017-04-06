@@ -11,7 +11,6 @@ image:
 ---
 ## Current Research Interests
 
-
 ### Integrating large datasets to uncover novel genes relevant to human health
 
 We are living in an exciting time where there exists many high-throughput methods to 
@@ -21,7 +20,6 @@ predict new molecules relevant to human disease. The current pressing problem th
 in how we can take the next step with these large datasets and integrate them to uncover 
 new associations and interactions previously masked in these datasets by the “simplistic”
 approach of studying each individually.
-
 
 To try to understand how to integrate data from different realms of biology, I have 
 been using a model, the nematode <i>Caenorhabditis elegans</i>. Very recently new 
@@ -34,6 +32,8 @@ with unsupervised learning approaches. Although my work has primarily utilized
 *C. elegans*, I am excited by the prospect of working in collaboration with clinical, 
 epidemiological and genomics research groups on similar datasets in other species, as the 
 same statistical methodologies would apply. 
+
+## Postdoctoral work
 
 ### Ciliated sensory neuron development and function
 
@@ -52,15 +52,15 @@ polycystic kidney disease, congenital heart disease, and an emerging group of ge
 disorders termed ciliopathies (e.g., Bardet-Biedl, Meckel-Gruber and Joubert Syndromes). 
 In these ciliopathies, collective disruption of many, if not all, cilia in the human body 
 results in a plethora of defects, including retinal degeneration, organ cyst formation, 
-obesity, brain malformations, and various other ailments (Baker & Beales, 2009). Here I 
-have been performing high-throughput, large-scale genetic screens and statistical genetic 
+obesity, brain malformations, and various other ailments (Baker & Beales, 2009). In the Leroux lab I 
+performed high-throughput, large-scale genetic screens and statistical genetic 
 analysis in *C. elegans* to uncover new genes critical for ciliated sensory neuron 
 development and function.
 
-##Graduate work 
+## Graduate work 
 
 
-###Molecular mechanisms of learning and memory
+### Molecular mechanisms of learning and memory
 
 My graduate research with Dr. Catharine Rankin at the University of British Columbia 
 (Vancouver, BC) uncovered novel molecular mechanisms governing learning and memory 
