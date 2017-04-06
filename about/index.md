@@ -17,4 +17,4 @@ I am a Neurogenomicist who is trying to unravel how we see, smell and taste the 
 
 This collaborative research works best in an open science framework and I strive to ensure all data and source code from my research is freely available to everyone. In addition to open access research, I participate in open science education and training as a Software Carpentry (http://software-carpentry.org/) Instructor, Contributor and Mentor.
 
-My up-to-date *curriculum vitae* can be found [here](Timbers_CV.pdf).
+My up-to-date *curriculum vitae* can be found [here](Timbers_CV.md).
