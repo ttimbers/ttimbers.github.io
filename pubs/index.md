@@ -10,7 +10,7 @@ image:
   creditlink: http://ttimbers.github.io
 ---
 
-### PEER-REVIEWED PUBLICATIONS:
+### Peer-reviewed publications:
 
 1. Yadav, C., Guedes, R.N.C., Matheson, S.M., **Timbers, T.A.**, and Yack, J.E. (2017). Invitation by vibration: recruitment to feeding shelters in social caterpillars. ***Behavioral Ecology and Sociobiology*** 71(3):51. doi: [10.1007/s00265-017-2280-x](http://dx.doi.org/10.1007/s00265-017-2280-x)
 
@@ -44,7 +44,7 @@ elegans*. ***Behavioral Neuroscience*** 125(4): 560-566. doi: [10.1037/a0024370]
 Schroeder, F. C. (2004). Defensive flocculent emissions in a Tiger moth, *Homoeocera stictosoma*
 (Arctiidae:Arctiinae). ***Journal of the Lepidopterists’ Society*** 58(3): 173-177.
 
-### PREPRINTS:
+### Preprints:
 
 1. **Timbers, T.A.,** Ardiel, E.L., Lee, K.C.Y., Safaei, J., Pelech,
 S.L., and Rankin, C.H. (2017). CaMK (CMK-1) and O-GlcNAc transferase (OGT-1) modulate mechanosensory responding and habituation in an interstimulus interval-dependent manner in *Caenorhabditis elegans*. ***bioRxiv*** doi: [10.1101/115972](https://doi.org/10.1101/115972) (_also submitted to **Genetics**_)
@@ -55,25 +55,15 @@ discovery by phenotyping whole-genome sequenced multi-mutation strains
 and using the sequence kernel association test (SKAT). ***bioRxiv*** doi:
 [10.1101/027540](http://dx.doi.org/10.1101/027540) (_also published in **PLoS Genetics**_)
 
-### MANUSCRIPTS UNDER REVISION AND/OR SUBMITTED:
+### Manuscripts under revision and/or submitted:
 
 1. **Timbers, T.A.,** Ardiel, E.L., Lee, K.C.Y., Safaei, J., Pelech,
 S.L., and Rankin, C.H. (_submitted to **Genetics**_, MS ID#: GENETICS/2017/202044). CaMK (CMK-1) and O-GlcNAc transferase (OGT-1) modulate mechanosensory responding and habituation in an interstimulus interval-dependent manner in *Caenorhabditis elegans*.
 
 2. Loucks, C.M., Walker, D.S., McEwan, A.H., **Timbers, T.A.,** Ardiel, E.L., Grundy, L.J., Johnson, J., Kennedy, J., Blacque, O.E., Schafer, W.R., Rankin, C.H., and Leroux, M.R. (_under revision in **Current Biology**_, MS ID#: CURRENT-BIOLOGY-D-16-01552). EFHC1, a protein linked to juvenile myoclonic epilepsy, functions at the cilium and synapse to modulate dopamine signaling.
 
-### MANUSCRIPTS IN PREPARATION:
 
-1. **Timbers, T.A.,** Ready, B., Baxi, K., Leroux, M.R., and Carvalho,
-C. (*In preparation for Nature Cell Biology).* Shugoshin: also
-protecting the centromere and cilia signaling?
-
-2. **Timbers, T.A.**\*, Loucks, C.\*, and Leroux, M.R. (*In preparation
-for PLoS Biology*). Genetic bases for naturally\
- occurring variations in locomotory and avoidance behaviors in *C.
-elegans*.  \***authors contributed equally**
-
-### PUBLISHED BOOK CHAPTERS:
+### Published book chapters:
 
 1. **Timbers, T.A.**, Frame, A.K., Rankin, C.H. (2017). Learning and Memory in Invertebrates: C. elegans. In Reference Module in *Neuroscience and Biobehavioral Psychology*, Elsevier, 2017. ISBN 9780128093245
 
