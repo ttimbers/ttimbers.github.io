@@ -9,14 +9,12 @@ image:
   credit: T. Timbers
   creditlink: http://ttimbers.github.io
 ---
-### Research
-I am a Neurogenomicist who is trying to unravel how we see, smell and taste the world around us. To accomplish this I use advanced statistical genetic methods to reveal associations between the genome and the behavioral phenome of a model organism, the nematode *Caenorhabditis elegans*.
-The goal is to reveal new genes important for sensing and responding to the environment. When I uncover new sensory genes, I then investigate their biological function in *C. elegans* and collaborate with human geneticists to assess their potential role in human sensory disorders.
-Currently, I am a Banting Postdoc at Simon Fraser University working with [Dr. Michel Leroux](http://www.sfu.ca/~leroux/).
+### Teaching: 
+I work as a Teaching Fellow for the UBC Statistics Department where my primary role is to teach, develop curriculum and coordinate for the new Professional [Master of Data Science program](http://masterdatascience.science.ubc.ca/). In this program we teach cutting-edge tools and techniques that are used by data scientists out in the wild. 
 
+### Research:
+I am a Neurogenomicist who is trying to unravel how we see, smell and taste the world around us. To accomplish this I use statistical genetic methods to reveal associations between the genome and the behavioral phenome of a model organism, *C. elegans*. The goal is to reveal new genes important for sensing and responding to the environment. When we uncover new sensory genes we then investigate their biological function in *C. elegans* and collaborate with human geneticists to assess their potential role in human sensory disorders. 
 
-### Open Science
-This collaborative research works best in an open science framework and I strive to ensure all data and source code from my research is freely available to everyone. In addition to open access research, I participate in open science education and training as a [Software Carpentry](http://software-carpentry.org/) Instructor and Contributor, [Mozilla Science Study Group organizer](http://sciprog.ca/), and Quest University visiting tutor teaching [Computation in the Physical Sciences](http://phy3009.github.io/PHY3009-2015/).
-
+This collaborative research works best in an open science framework and I strive to ensure all data and source code from my research is freely available to everyone. In addition to open access research, I participate in open science education and training as a Software Carpentry (http://software-carpentry.org/) Instructor, Contributor and Mentor.
 
 My up-to-date *curriculum vitae* can be found [here](Timbers_CV.pdf).
