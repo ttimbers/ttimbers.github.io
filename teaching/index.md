@@ -21,3 +21,15 @@ I have a large body of teaching experience spanning from:
   - my current role as a Teaching Fellow for the UBC Master of Data Science program.
 
 My teaching philosophy can be accessed [here](teaching_philosophy.md).
+
+#### Courses I currently teach:
+
+1. DSCI 521 - Computing Platforms for Data Science
+
+2. DSCI 552 - Statistical Inference and Computation I 
+
+3. DSCI 522 - Data Science Workflows
+
+4. [DSCI 100 - Introduction to Data Science](https://github.com/UBC-DSCI/dsci-100)
+
+5. [STAT 548 - Statistics PhD Qualifying Course](https://www.stat.ubc.ca/phd-qualifying-course) ([papers that I am willing to supervise](stat548.md))
