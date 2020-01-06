@@ -29,7 +29,7 @@ Simon Fraser University, Dept. of Molecular Biology & Biochemistry, Burnaby, BC<
 *￼￼￼Integrating genomic and phenomic data to identify novel genes critical for cilia and sensory neuron function*</br>
 Supervisor: Michel R. Leroux.
 
-### EDUCATION: 
+### EDUCATION:
 * **Ph.D. in Neuroscience**, 2005 – 2012  </br>
 University of British Columbia, Brain Research Centre, Vancouver, BC</br>
 *The roles of CREB, CaMK1 and ageing in short- and long-term tap habituation in C. elegans*</br>
@@ -49,7 +49,7 @@ Honors Thesis Supervisor: Jayne E. Yack.
 * Statistical Learning, Stanford University Online, 2014
 * R Bootcamp, Software Carpentry, 2014
 
-### TEACHING EXPERIENCE: 
+### TEACHING EXPERIENCE:
 
 1. **Instructor**, University of British Columbia, Vancouver, BC </br> Sept 2016 - Current </br>
 
@@ -111,11 +111,11 @@ Augusta, MI, Aug., 2015 </br>
     - University of British Columbia, Vancouver, BC (2006-2011)
       - PSYC 306 – Principles of Animal Behavior
       - PSYC 363 – Principles of Animal Learning
-      - PSYC 368 – Perceptual Processing 
+      - PSYC 368 – Perceptual Processing
     - Marine Biological Laboratory, Woods Hole, MA (2008)
       - Neural Systems and Behavior
     - Carleton University, Ottawa, ON (2005)
-      - BIOL 3802 – Animal Behavior 
+      - BIOL 3802 – Animal Behavior
 
 7. **Student Supervision**, 16 undergraduate student research projects 
 	* Planned/designed projects, trained/supervised students, graded projects.
