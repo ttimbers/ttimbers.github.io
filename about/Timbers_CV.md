@@ -210,6 +210,10 @@ Neuroscience.* pp. 227-242. Oxford: Elsevier.
 
 ### INVITED PRESENTATIONS:
 
+1. **Timbers, T.A.** (2019). [When Should You Add Github, Make and Docker to Your Data Science Workflow?](https://workflows-for-all.github.io/sdss-2019/workflows_democratize_complex_projects/workflows_democratize_complex_projects.html#1). *Symposium on Data Science & Statistics* (Bellevue, WA)
+
+1. **Timbers, T.A.** (2019). [DSCI 100 - Introduction to Data Science: A Discussion of Course Design Intent and Lessons Learned](https://ttimbers.github.io/dsci-100-ssc-2019/dsci-100-ssc-2019.html#1). *Statistics Society of Candada Annual Meeting* (University of Calgary, AB)
+
 1. **Timbers, T.A.**, Silva., R, and Smith, G. (2017). [Career Pathways Panel](https://software-carpentry.org/blog/2017/01/first-panel.html). *Software and Data Carpentry* (Online conference call, registration required)
 
 1. Gerstein, M., Leek, J., Hoffman, M., Nattestad., M., and **Timbers, T.A.**,  (2016). Education Forum and Panel Discussion. *Cold Spring Harbor Laboratory Biological Data Science Meeting* (Cold Spring Harbor, NY)
