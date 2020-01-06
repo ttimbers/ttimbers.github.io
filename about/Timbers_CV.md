@@ -9,7 +9,17 @@ Github: [github.com/ttimbers](https://github.com/ttimbers)
 ## *Curriculum vitae*
 
 ### POSITIONS HELD: 
-* **Teaching and Learning Fellow**, 2016 – Current</br>
+
+* **Option Co-Director Master of Data Science program - Vancouver Option**, 2018 – Current</br>
+University of British Columbia, Master of Data Science program, Vancouver, BC</br>
+*Coordination and curriculum oversight for the professional ￼￼￼Master of Data Science (MDS) program*</br>
+
+* **Instructor**, 2018 – Current</br>
+University of British Columbia, Dept. of Statistics, Vancouver, BC</br>
+*Educational leadership stream faculty teaching Data Science in the Dept. of Statistics and the professional ￼￼￼Master of Data Science (MDS) program*</br>
+Supervisors: Paul Gustafson, Giuseppe Carenini, Jenny Bryan, and Raymond Ng.
+
+* **Teaching and Learning Fellow**, 2016 – 2018</br>
 University of British Columbia, Dept. of Statistics, Vancouver, BC</br>
 *Teaching, coordination and curriculum development for the professional ￼￼￼Master of Data Science (MDS) program*</br>
 Supervisors: Paul Gustafson, Giuseppe Carenini, Jenny Bryan, and Raymond Ng.
@@ -41,13 +51,21 @@ Honors Thesis Supervisor: Jayne E. Yack.
 
 ### TEACHING EXPERIENCE: 
 
-1. **Instructor**, University of British Columbia, Vancouver, BC </br> Sept - Oct. 2016 </br>
+1. **Instructor**, University of British Columbia, Vancouver, BC </br> Sept 2016 - Current </br>
 
-    DSCI 511 - Programming for Data Science (for MDS graduate students - 22 students). Overview of data structures, iteration, flow control, and program design relevant to data exploration and analysis. When and how to exploit pre-existing libraries.
+    DSCI 100 - Introduction to Data Science. Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
 
-    DSCI 521 - Computing Platforms for Data Science (for MDS graduate students - 22 students). How to install, maintain, and use the data scientific software "stack". The Unix operating system, integrated development environments, and problem solving strategies.
+    DSCI 511 - Programming for Data Science. Overview of data structures, iteration, flow control, and program design relevant to data exploration and analysis. When and how to exploit pre-existing libraries.
 
-    DSCI 522 - Data Science Workflows (for MDS graduate students - 22 students). Basic principles of sound data scientific workflows. Implementing these workflows in appropriate state-of-the-art systems and languages (e.g., Python and R). Deliberate effort at organization, tool choice, and process.
+    DSCI 523 - Converting data from the form in which it is collected to the form needed for analysis. How to clean, filter, arrange, aggregate, and transform diverse data types, e.g. strings, numbers, and date-times.
+
+    DSCI 521 - Computing Platforms for Data Science. How to install, maintain, and use the data scientific software "stack". The Unix operating system, integrated development environments, and problem solving strategies.
+    
+    DSCI 552 - Statistical Inference and Computation I. The statistical and probabilistic foundations of inference. Large sample results. The frequentist paradigm.
+
+    DSCI 522 - Data Science Workflows. Basic principles of sound data scientific workflows. Implementing these workflows in appropriate state-of-the-art systems and languages (e.g., Python and R). Deliberate effort at organization, tool choice, and process.
+    
+    DSCI 591 - Data Science Capstone Project. A mentored group project based on real data and questions from a partner within or outside the university. Students will formulate questions and design and execute a suitable analysis plan. The group will work collaboratively to produce a reproducible analysis pipeline, project report, presentation and possibly other products, such as a dashboard.
 
 2. **Teaching Fellow**, University of British Columbia, Vancouver, BC </br> Sept. 2016 - present </br>
 
@@ -139,6 +157,11 @@ Augusta, MI, Aug., 2015 </br>
 
 ### PEER-REVIEWED PUBLICATIONS:
 
+2. Loucks, C.M., Walker, D.S., McEwan, A.H., **Timbers, T.A.,** Ardiel, E.L., Grundy, L.J., Johnson, J., Kennedy, J., Blacque, O.E., Schafer, W.R., Rankin, C.H., and Leroux, M.R. (2019). EFHC1, implicated in juvenile myoclonic epilepsy, functions at the cilium and synapse to modulate dopamine signaling. ***eLife*** 8:e37271. doi: [10.7554/eLife.37271.001](https://doi.org/10.7554/eLife.37271.001)
+
+1. Ardiel, E.L., McDiarmid, T.A., **Timbers, T.A.,** , Lee, K.C.Y., Safaei, J., Pelech,
+S.L., and Rankin, C.H. (2018). Insights into the roles of CMK-1 and OGT-1 in interstimulus interval-dependent habituation in *Caenorhabditis elegans*. ***Proceedings of the Royal Society B*** 285(1891):20182084. doi: [10.1098/rspb.2018.2084](https://royalsocietypublishing.org/doi/10.1098/rspb.2018.2084)
+
 1. Yadav, C., Guedes, R.N.C., Matheson, S.M., **Timbers, T.A.**, and Yack, J.E. (2017). Invitation by vibration: recruitment to feeding shelters in social caterpillars. ***Behavioral Ecology and Sociobiology*** 71(3):51. doi: [10.1007/s00265-017-2280-x](http://dx.doi.org/10.1007/s00265-017-2280-x)
 
 2. Babaian, A., Drögemöller, B., Grande, B.M., Jackman, S.D., Lee, A.H., Lin, S., Loucks, C., Suarez-Gonzalez, A., **Timbers, T.A.** and Wright, G. (2017). hackseq: Catalyzing collaboration between biological and computational scientists via hackathon [version 1; referees: awaiting peer review](https://f1000research.com/articles/6-197/v1). ***F1000Research***, *Hackathons channel*. doi: [10.12688/f1000research.10964.1](http://dx.doi.org/10.12688/f1000research.10964.1)
@@ -170,35 +193,6 @@ elegans*. ***Behavioral Neuroscience*** 125(4): 560-566. doi: [10.1037/a0024370]
 6. Yack, J. E., **Timbers, T. A**.,Conner, W. E., Aiello, A. and
 Schroeder, F. C. (2004). Defensive flocculent emissions in a Tiger moth, *Homoeocera stictosoma*
 (Arctiidae:Arctiinae). ***Journal of the Lepidopterists’ Society*** 58(3): 173-177.
-
-### PREPRINTS:
-
-1. **Timbers, T.A.,** Ardiel, E.L., Lee, K.C.Y., Safaei, J., Pelech,
-S.L., and Rankin, C.H. (2017). CaMK (CMK-1) and O-GlcNAc transferase (OGT-1) modulate mechanosensory responding and habituation in an interstimulus interval-dependent manner in *Caenorhabditis elegans*. ***bioRxiv*** doi: [10.1101/115972](https://doi.org/10.1101/115972) (_also submitted to **Genetics**_)
-
-1. **Timbers, T.A.**, Garland, S., Mohan, S., Flibotte, S., Edgley, M.,
-Muncaster, Q., Moerman, D., and Leroux, M. (2015). Accelerating gene
-discovery by phenotyping whole-genome sequenced multi-mutation strains
-and using the sequence kernel association test (SKAT). ***bioRxiv*** doi:
-[10.1101/027540](http://dx.doi.org/10.1101/027540) (_also published in **PLoS Genetics**_)
-
-### MANUSCRIPTS UNDER REVISION AND/OR SUBMITTED:
-
-1. **Timbers, T.A.,** Ardiel, E.L., Lee, K.C.Y., Safaei, J., Pelech,
-S.L., and Rankin, C.H. (_submitted to **Genetics**_, MS ID#: GENETICS/2017/202044). CaMK (CMK-1) and O-GlcNAc transferase (OGT-1) modulate mechanosensory responding and habituation in an interstimulus interval-dependent manner in *Caenorhabditis elegans*.
-
-2. Loucks, C.M., Walker, D.S., McEwan, A.H., **Timbers, T.A.,** Ardiel, E.L., Grundy, L.J., Johnson, J., Kennedy, J., Blacque, O.E., Schafer, W.R., Rankin, C.H., and Leroux, M.R. (_under revision in **Current Biology**_, MS ID#: CURRENT-BIOLOGY-D-16-01552). EFHC1, a protein linked to juvenile myoclonic epilepsy, functions at the cilium and synapse to modulate dopamine signaling.
-
-### MANUSCRIPTS IN PREPARATION:
-
-1. **Timbers, T.A.,** Ready, B., Baxi, K., Leroux, M.R., and Carvalho,
-C. (*In preparation for Nature Cell Biology).* Shugoshin: also
-protecting the centromere and cilia signaling?
-
-2. **Timbers, T.A.**\*, Loucks, C.\*, and Leroux, M.R. (*In preparation
-for PLoS Biology*). Genetic bases for naturally\
- occurring variations in locomotory and avoidance behaviors in *C.
-elegans*.  \***authors contributed equally**
 
 ### PUBLISHED BOOK CHAPTERS:
 
