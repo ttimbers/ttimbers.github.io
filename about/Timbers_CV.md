@@ -5,16 +5,16 @@ tel. 604-803-4962 </br>
 email. [tiffany.timbers@stat.ubc.ca](mailto:tiffany.timbers@stat.ubc.ca)</br>
 website: [tiffanytimbers.com](http://tiffanytimbers.com/)</br>
 Github: [github.com/ttimbers](https://github.com/ttimbers)
-   
+
 ## *Curriculum vitae*
 
-### POSITIONS HELD: 
+### POSITIONS HELD:
 
 * **Option Co-Director Master of Data Science program - Vancouver Option**, 2018 – Current</br>
 University of British Columbia, Master of Data Science program, Vancouver, BC</br>
 *Coordination and curriculum oversight for the professional ￼￼￼Master of Data Science (MDS) program*</br>
 
-* **Instructor**, 2018 – Current</br>
+* **Assistant Professor of Teaching**, 2018 – Current</br>
 University of British Columbia, Dept. of Statistics, Vancouver, BC</br>
 *Educational leadership stream faculty teaching Data Science in the Dept. of Statistics and the professional ￼￼￼Master of Data Science (MDS) program*</br>
 Supervisors: Paul Gustafson, Giuseppe Carenini, Jenny Bryan, and Raymond Ng.
@@ -64,6 +64,8 @@ Honors Thesis Supervisor: Jayne E. Yack.
     DSCI 552 - Statistical Inference and Computation I. The statistical and probabilistic foundations of inference. Large sample results. The frequentist paradigm.
 
     DSCI 522 - Data Science Workflows. Basic principles of sound data scientific workflows. Implementing these workflows in appropriate state-of-the-art systems and languages (e.g., Python and R). Deliberate effort at organization, tool choice, and process.
+    
+    DSCI 524 - How to exploit practices from collaborative software development techniques in data scientific workflows. Appropriate use of the software life cycle, unit testing / continuous integration, and packaging for use by others.
     
     DSCI 591 - Data Science Capstone Project. A mentored group project based on real data and questions from a partner within or outside the university. Students will formulate questions and design and execute a suitable analysis plan. The group will work collaboratively to produce a reproducible analysis pipeline, project report, presentation and possibly other products, such as a dashboard.
 
@@ -140,6 +142,7 @@ Augusta, MI, Aug., 2015 </br>
 
 
 ### PROFESSIONAL ACTIVITIES:
+* Topic Editor: The Journal of Open Source Education (JOSE), 2020 - Current
 * Organizer: hackseq genomics hackathon (satellite event of American Society for Human Genetics Meeting), 2016
 * Workshop leader: UBC R study group, 2016
 * Peer review of `ezknitr` R software package: ROpenSci, 2016
@@ -157,7 +160,7 @@ Augusta, MI, Aug., 2015 </br>
 
 ### PEER-REVIEWED PUBLICATIONS:
 
-2. Loucks, C.M., Walker, D.S., McEwan, A.H., **Timbers, T.A.,** Ardiel, E.L., Grundy, L.J., Johnson, J., Kennedy, J., Blacque, O.E., Schafer, W.R., Rankin, C.H., and Leroux, M.R. (2019). EFHC1, implicated in juvenile myoclonic epilepsy, functions at the cilium and synapse to modulate dopamine signaling. ***eLife*** 8:e37271. doi: [10.7554/eLife.37271.001](https://doi.org/10.7554/eLife.37271.001)
+1. Loucks, C.M., Walker, D.S., McEwan, A.H., **Timbers, T.A.,** Ardiel, E.L., Grundy, L.J., Johnson, J., Kennedy, J., Blacque, O.E., Schafer, W.R., Rankin, C.H., and Leroux, M.R. (2019). EFHC1, implicated in juvenile myoclonic epilepsy, functions at the cilium and synapse to modulate dopamine signaling. ***eLife*** 8:e37271. doi: [10.7554/eLife.37271.001](https://doi.org/10.7554/eLife.37271.001)
 
 1. Ardiel, E.L., McDiarmid, T.A., **Timbers, T.A.,** , Lee, K.C.Y., Safaei, J., Pelech,
 S.L., and Rankin, C.H. (2018). Insights into the roles of CMK-1 and OGT-1 in interstimulus interval-dependent habituation in *Caenorhabditis elegans*. ***Proceedings of the Royal Society B*** 285(1891):20182084. doi: [10.1098/rspb.2018.2084](https://royalsocietypublishing.org/doi/10.1098/rspb.2018.2084)
@@ -210,6 +213,12 @@ Neuroscience.* pp. 227-242. Oxford: Elsevier.
 
 ### INVITED PRESENTATIONS:
 
+1. **Timbers, T.A.** (2020). Reticulate RStudio and your R code with Python! RLadies Baltimore meetup (Remote presentation)
+
+1. **Timbers, T.A.** (2020). Sharing your teaching materials using Git & GitHub. UBC Jupyterdays - a CTLT Summer Institute Event (Vancouver, BC)
+
+1. **Timbers, T.A.** (2019). Teaching data science with RISE slides and Binder. UBC Jupyter Day - a CTLT Summer Institute Event (Vancouver, BC)
+
 1. **Timbers, T.A.** (2019). [When Should You Add Github, Make and Docker to Your Data Science Workflow?](https://workflows-for-all.github.io/sdss-2019/workflows_democratize_complex_projects/workflows_democratize_complex_projects.html#1). *Symposium on Data Science & Statistics* (Bellevue, WA)
 
 1. **Timbers, T.A.** (2019). [DSCI 100 - Introduction to Data Science: A Discussion of Course Design Intent and Lessons Learned](https://ttimbers.github.io/dsci-100-ssc-2019/dsci-100-ssc-2019.html#1). *Statistics Society of Candada Annual Meeting* (University of Calgary, AB)
@@ -239,6 +248,10 @@ M.R. (2012). Screening a million\
 Meeting* (Toronto, ON, Canada)
 
 ### CONFERENCE PRESENTATIONS:
+
+1. Çetinkaya-Rundel, M. & **Timbers, T.A.** (2020). Feed me back now: Tales of automated feedback in R and Python. eCOTS 2020 (Remote presentation) Talk
+
+1. **Timbers, T.A.** (2020). Integrating R & Python into a Data Science program. rstudio::conf (San Francisco, CA, USA) e-Poster
 
 1. **Timbers, T.A.**, Loucks, C., Flibotte, S., Moerman, D.G., and Leroux, M.R. (2016). Combining phenome and genome to uncover the genetic basis for naturally occurring differences in development and behaviour. *Cold Spring Harbor Laboratory Biological Data Science Meeting* (Cold Spring Harbor, NY) Talk
 
